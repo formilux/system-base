@@ -18,7 +18,6 @@ opt 0:0 755
 opt/bin 0:0 755
 opt/lib 0:0 755
 opt/sbin 0:0 755
-etc/formilux-release 0:0 644
 proc 0:0 755
 root 0:0 711
 root/.inputrc 0:0 644

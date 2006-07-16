@@ -1,2 +1,6 @@
 2003/06/17
   - /var/log changed from root:root:755 to root:log:2750
+2003/10/02
+  - added 'set bell-style none' to root/.inputrc
+  - modified the build script to stay compatible with newer
+    versions of 'pkg'
