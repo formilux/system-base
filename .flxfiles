@@ -3,6 +3,7 @@ bin 0:0 755
 boot 0:0 755
 dev 0:0 755
 etc 0:0 755
+etc/opt 0:0 755
 etc/formilux-release 0:0 644
 home 0:0 755
 lib 0:0 755
@@ -13,6 +14,11 @@ mnt/cdrom 0:0 755
 mnt/flash 0:0 755
 mnt/nfs 0:0 755
 mnt/floppy 0:0 755
+opt 0:0 755
+opt/bin 0:0 755
+opt/lib 0:0 755
+opt/sbin 0:0 755
+etc/formilux-release 0:0 644
 proc 0:0 755
 root 0:0 711
 root/.inputrc 0:0 644
