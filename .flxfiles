@@ -37,6 +37,6 @@ var/run 0:0 755
 var/cache 0:0 755
 var/empty 0:0 500
 var/lib 0:0 755
-var/log 0:0 755
+var/log 0:22 2750
 var/spool 0:0 755
 var/adm 0:0 755

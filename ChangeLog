@@ -1,0 +1,2 @@
+2003/06/17
+  - /var/log changed from root:root:755 to root:log:2750
