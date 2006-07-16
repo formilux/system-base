@@ -11,7 +11,7 @@ lib/modules 0:0 755
 mnt 0:0 755
 mnt/disk 0:0 755
 mnt/cdrom 0:0 755
-mnt/flash 0:0 755
+mnt/usb 0:0 755
 mnt/nfs 0:0 755
 mnt/floppy 0:0 755
 opt 0:0 755
@@ -35,7 +35,7 @@ var 0:0 755
 var/tmp 0:0 1777
 var/run 0:0 755
 var/cache 0:0 755
-var/empty 0:0 755
+var/empty 0:0 711
 var/lib 0:0 755
 var/log 0:0 755
 var/spool 0:0 755
