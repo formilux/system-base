@@ -1,0 +1,9 @@
+2006/07/16 15:31 willy@pcw
+
+	* fixed the build.cfg to find empty directories when missing from
+	  the local repository
+
+2004/12/11 00:41  root@wtap
+
+	* released system-base-0.3.5-flx0.1
+	* /lib/modules now points to ../boot instead of /boot
